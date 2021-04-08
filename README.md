@@ -11,3 +11,5 @@ so, it seems, that there is a priority of sort, or a mixing of the inherited def
 
 
 there is also minimal php code but it is just a newline, and the dates
+
+oh sorry, not exactly... just had to delete cache from browser history... :)
